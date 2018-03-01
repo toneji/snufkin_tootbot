@@ -2,7 +2,7 @@
 スナフキンが名言をMastodonにtootします
 
 【動作確認】<br>
-macOS 10.13.3 High sierra<br>
+macOS 10.13.3 High Sierra<br>
 Python 3.6.4<br>
 
 【下準備】<br>
