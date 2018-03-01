@@ -17,7 +17,7 @@ python3.6 setup.py<br>
 cred.txtとauth.txtが作成されるので、それを既存のものと入れ替える。<br>
 
 【実行】<br>
-snufkin_toot.pyの「インスタンス」を編集してから、以下を実行。<br?
+snufkin_toot.pyの「インスタンス」を編集してから、以下を実行。<br>
 python3.6 snufkin_toot.py<br>
 
 これで、tool_list.txtの中の名言をランダムにツゥートする。<br>
