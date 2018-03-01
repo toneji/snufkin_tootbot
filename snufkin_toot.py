@@ -9,7 +9,7 @@ from mastodon import Mastodon
 mastodon = Mastodon(
         client_id="cred.txt", 
         access_token="auth.txt",
-        api_base_url = "https://mstdn.osaka") #インスタンス
+        api_base_url = "https://mastodon.com") #インスタンス
  
 #1〜49の乱数生成
 rand = random.randint(1,49)
