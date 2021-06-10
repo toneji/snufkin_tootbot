@@ -2,7 +2,7 @@ certifi==2018.1.18
 chardet==3.0.4
 decorator==4.2.1
 dj-database-url==0.4.2
-Django==2.0.2
+Django==2.2.24
 django-heroku==0.2.0
 flake8==3.5.0
 gunicorn==19.7.1
